@@ -1,0 +1,14 @@
+set tabsize 2
+set tabstospaces
+
+set smooth
+set autoindent
+
+set nohelp
+
+## Syntax
+
+## PHP
+include "/usr/share/nano/php.nanorc"
+## JavaScript
+include "/usr/share/nano/javascript.nanorc"
