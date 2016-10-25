@@ -27,3 +27,7 @@ alias compda="composer dump-autoload -o"
 # Text Editor Aliases
 alias em="emacs -nw -q -l ~/.emacs.d/init-lite.el"
 
+# Vagrant
+alias vu="vagrant up"
+alias vs="vagrant ssh"
+alias vh="vagrant halt"
