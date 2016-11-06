@@ -12,3 +12,7 @@ set nohelp
 include "/usr/share/nano/php.nanorc"
 ## JavaScript
 include "/usr/share/nano/javascript.nanorc"
+## Python
+include "/usr/share/nano/python.nanorc"
+## Html
+include "/usr/share/nano/html.nanorc"
