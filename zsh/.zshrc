@@ -1,7 +1,7 @@
 export PATH=$HOME/bin:/usr/local/bin:$HOME/.composer/vendor/bin:$PATH
 export ZSH=/home/burak/.oh-my-zsh
 
-ZSH_THEME="kphoen"
+ZSH_THEME="robbyrussell"
 
 plugins=(git)
 
