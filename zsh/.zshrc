@@ -2,7 +2,6 @@ export PATH=$HOME/bin:/usr/local/bin:$HOME/.composer/vendor/bin:$PATH
 export ZSH=/home/burak/.oh-my-zsh
 
 ZSH_THEME="avit"
-
 plugins=(git)
 
 source $ZSH/oh-my-zsh.sh
